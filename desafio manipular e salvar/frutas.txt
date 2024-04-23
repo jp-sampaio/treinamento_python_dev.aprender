@@ -1,0 +1,10 @@
+maçã
+banana
+uva
+limão
+morango
+verde
+amarelo
+azul
+vermelho
+rosa
